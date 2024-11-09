@@ -19,7 +19,7 @@ export default function Hero() {
                     <div className="p-4">
                         <h1 className="text-3xl md:text-4xl font-bold mb-4">JavaScript: The Complete Guide for Beginners</h1>
                         <p className="text-lg md:text-2xl mb-6">
-                            JavaScript, often abbreviated as JS, is one of the most popular and powerful programming languages in the world. It's known for its role in web development but has expanded into various other fields. This blog will cover everything from the language's history to its present-day applications and future outlook.
+                            JavaScript, often abbreviated as JS, is one of the most popular and powerful programming languages in the world. It&apos;s known for its role in web development but has expanded into various other fields. This blog will cover everything from the language&apos;s history to its present-day applications and future outlook.
                         </p>
 
                     </div>
@@ -68,7 +68,7 @@ export default function Hero() {
                             <li><span className=" underline font-semibold">Single-Page Applications (SPAs):</span> Frameworks like React and Angular use JavaScript to create fast, interactive SPAs.</li>
                         </ul>
 
-                        <h1 className="text-3xl md:text-4xl font-bold mb-4">JavaScripts Market Scope and Popularity</h1>
+                        <h1 className="text-3xl md:text-4xl font-bold mb-4">JavaScript&apos;s Market Scope and Popularity</h1>
                         <h3 className="text-lg md:text-2xl mb-6">
                             JavaScript has a significant share in the global developer community:
                         </h3>
@@ -92,7 +92,7 @@ export default function Hero() {
 
                         <h1 className="text-3xl md:text-4xl font-bold mb-4">The Future of JavaScript</h1>
                         <h3 className="text-lg md:text-2xl mb-6">
-                            JavaScripts future looks promising:</h3>
+                            JavaScript&apos;s future looks promising:</h3>
                         <ul className="text-lg md:text-2xl mb-6 list-disc list-inside">
                             <li><span className=" underline font-semibold">Web3 and Blockchain:</span> JavaScript is gaining traction in the blockchain world with libraries like Web3.js.
                             </li>
@@ -103,7 +103,7 @@ export default function Hero() {
 
                         <h1 className="text-3xl md:text-4xl font-bold mb-4">Why Learn JavaScript?</h1>
                         <ul className="text-lg md:text-2xl mb-6 list-disc list-inside">
-                            <li><span className=" underline font-semibold">High Demand:</span>  It's one of the top 5 languages for web development jobs globally.</li>
+                            <li><span className=" underline font-semibold">High Demand:</span>  It&apos;s one of the top 5 languages for web development jobs globally.</li>
                             <li><span className=" underline font-semibold">Versatility:</span> Knowledge of JavaScript allows you to build web apps, mobile apps, and server-side applications.
                             </li>
                             <li><span className=" underline font-semibold">Rich Ecosystem:</span> With so many frameworks and libraries, learning JavaScript opens up vast opportunities.
